@@ -19,5 +19,4 @@ steps:
     npm install
     npm install express
     npm install cors
-    npm run build
   displayName: 'npm install and build'
